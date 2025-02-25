@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.civilizational-development]
+path = 'contracts/civilizational-development.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.galactic-seed-placement]
 path = 'contracts/galactic-seed-placement.clar'
 clarity_version = 2

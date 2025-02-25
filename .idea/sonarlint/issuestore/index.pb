@@ -5,3 +5,5 @@ V
 &contracts/galactic-seed-placement.clar,8/e/8e175953e910af1f69f99c0b81f206ff33d7970f
 U
 %tests/galactic-seed-placement.test.ts,4/a/4afb7e3edf56bfb71604ec7c56834cb800abf136
+Y
+)contracts/civilizational-development.clar,7/c/7cb8f63c0332a4924d5e3de646b467dc322a7d7b
