@@ -11,3 +11,5 @@ X
 (tests/civilizational-development.test.ts,f/a/fafcab35fa98b5731114c2334ffcc7fecf1314fc
 Y
 )contracts/interspecies-collaboration.clar,6/d/6d6b4898c94e860d66910dc9b477334162d7e2d8
+X
+(tests/interspecies-collaboration.test.ts,9/9/991d51b095c3f9078a65f2271f060dd823e7745b
