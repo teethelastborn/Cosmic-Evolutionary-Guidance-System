@@ -9,3 +9,5 @@ Y
 )contracts/civilizational-development.clar,7/c/7cb8f63c0332a4924d5e3de646b467dc322a7d7b
 X
 (tests/civilizational-development.test.ts,f/a/fafcab35fa98b5731114c2334ffcc7fecf1314fc
+Y
+)contracts/interspecies-collaboration.clar,6/d/6d6b4898c94e860d66910dc9b477334162d7e2d8
