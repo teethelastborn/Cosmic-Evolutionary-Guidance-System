@@ -7,3 +7,5 @@ U
 %tests/galactic-seed-placement.test.ts,4/a/4afb7e3edf56bfb71604ec7c56834cb800abf136
 Y
 )contracts/civilizational-development.clar,7/c/7cb8f63c0332a4924d5e3de646b467dc322a7d7b
+X
+(tests/civilizational-development.test.ts,f/a/fafcab35fa98b5731114c2334ffcc7fecf1314fc
